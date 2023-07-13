@@ -1,6 +1,6 @@
 # Planner
 
-This is a website that prompts you for how many characters and what type of characters you want in a random password. It then creates a random password following that criteria.
+This is a work day scheduler that will save the users input into local storage and retrieve it later. It also uses the weather api to get day and time and color code the scheduler depending on the time.
 
 ### Getting Started 
 
@@ -13,7 +13,7 @@ Just a website so a web browser is all your need. I would recommend Google Chrom
  
 ## Deployment
 
-This website is deployed on github. So by this link: https://carhoden.github.io/Password-Gen-2/
+This website is deployed on github. So by this link: https://carhoden.github.io/Planner/
 you can access to it.
 
 ## Built With
